@@ -1,0 +1,21 @@
+<carriers>
+	<country name="USA" mcc="310">
+	</country>	
+	<country name="Canada" mcc="302">
+		<carrier name="Rogers Wireless" mnc="720">
+			<tcpAPN>internet.com</tcpAPN>
+			<tcpAPNUserName></tcpAPNUserName>
+			<tcpAPNPassword></tcpAPNPassword>	
+			<wapAPN>goam.com</wapAPN>
+			<wapIP>10.128.1.69</wapIP>
+			<wapPort>9201</wapPort>
+			<wapUserName></wapUserName>
+			<wapPassword></wapPassword>
+			<wapSourceIP></wapSourceIP>
+			<wapSourcePort></wapSourcePort>
+			<isEnabaleWTLS></isEnabaleWTLS>
+		</carrier>
+	</country>	
+</carriers>
+
+
